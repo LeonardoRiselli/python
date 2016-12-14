@@ -1,3 +1,2 @@
-print "come ti chiami?  "
-name= raw_input()
+name= raw_input("come ti chiami?  ")
 print "ciao", name
