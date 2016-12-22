@@ -1,5 +1,6 @@
 import math
-risp=input("effettua una schelta 1 - CUBO, 2 - SFERA: ")
+print"Calcolo del volume di un CUBO o di una SFERA"
+risp=input("Effettua una schelta 1 - CUBO, 2 - SFERA: ")
 if risp==1:
   l=input("dimmi il valore del lato: ")
   v= l*l*l
