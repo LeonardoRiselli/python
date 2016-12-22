@@ -1,7 +1,8 @@
 a=input("dimmi il valore di a: ")
 b=input("dimmi il valore di b: ")
-if a<0:
-  x=a-b
+if b<0:
+  b=b*(-1)
+  print"il risutato e': X=",b,"/",a
 else:
-  x=a+b
-print"il risutato e': X=",x
+  b=b*(-1)
+  print"il risutato e': X=",b,"/",a
