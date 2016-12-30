@@ -1,5 +1,5 @@
-a=input("dimmi il valore di a: ")
-b=input("dimmi il valore di b: ")
+a=input("dimmi il valore di A: ")
+b=input("dimmi il valore di B: ")
 b=b*(-1)
 a=a*(-1)
 if b<0:
