@@ -3,6 +3,12 @@ a=input("dimmi il valore di a: ")
 b=input("dimmi il valore di b: ")
 c=input("dimmi il valore di c: ")
 delta=b*b-4.0*a*c
+if a==0 and b==0 and c==0:
+  print"0=0"
+elif a==0 and b==0:
+    
+  
+
 if delta>0:
   radicedelta= math.sqrt(delta)
   x1= (b*(-1.0)) + radicedelta / (2.0*a)
