@@ -5,5 +5,5 @@ if a==0 and b==0:
 elif a==0:
   print"e' impossibile"
 else:
-  x=b/a
+  x=-b/a
   print"X=",x
