@@ -13,8 +13,8 @@ else:
   delta=b*b-4.0*a*c
   if delta>0:
     radicedelta= math.sqrt(delta)
-    x1= b*(-1.0) + radicedelta / 2.0*a
-    x2= b*(-1.0) - radicedelta / 2.0*a
+    x1= b*-1.0 + radicedelta / 2.0*a
+    x2= b*-1.0 - radicedelta / 2.0*a
     print "x1 e uguale a: ",x1,"e x2 e uguale a: ",x2
   else:
     print " e' impossibile "
