@@ -1,4 +1,4 @@
-delta=b*b-4.0*a*cimport math 
+import math 
 a=input("dimmi il valore di a: ")
 b=input("dimmi il valore di b: ")
 c=input("dimmi il valore di c: ")
