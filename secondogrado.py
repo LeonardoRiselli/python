@@ -1,7 +1,7 @@
 import math 
 a=float(input("dimmi il valore di a: "))
 b=float(input("dimmi il valore di b: "))
-c=input("dimmi il valore di c: ")
+c=float(input("dimmi il valore di c: "))
 if a==0 and b==0 and c==0:
   print"0=0"
 elif a==0 and b==0:
